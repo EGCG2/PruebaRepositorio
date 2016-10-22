@@ -1,4 +1,6 @@
-Este documento se ha creado para probar los diferentes comandos de git vitos en la primera practica de EGC. v1
+Este documento se ha creado para probar los diferentes comandos de git vistos en la primera practica de EGC. v2
+
+git clone url
 
 git add
 git commit
